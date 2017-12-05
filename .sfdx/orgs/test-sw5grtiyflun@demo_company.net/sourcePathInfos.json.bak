@@ -32,28 +32,28 @@
     [
         "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1512454811558,
             "changeTime": 1512454811558,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
         }
     ],
     [
         "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\aura",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1512455927499,
-            "changeTime": 1512455927499,
-            "isWorkspace": false,
-            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86"
+            "modifiedTime": 1512454375693,
+            "changeTime": 1512454375693,
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -268,14 +268,14 @@
     [
         "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
+            "size": 155,
+            "modifiedTime": 1512454419561,
+            "changeTime": 1512454419561,
+            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45",
             "isMetadataFile": false,
-            "size": 182,
-            "modifiedTime": 1512456174176,
-            "changeTime": 1512456174176,
-            "contentHash": "f0aad58c6510048b7f88251e480b43431d0b9784"
+            "state": "u"
         }
     ],
     [
@@ -346,274 +346,92 @@
     [
         "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 267,
             "modifiedTime": 1512454811536,
             "changeTime": 1512454811536,
-            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
         }
     ],
     [
         "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 4457,
             "modifiedTime": 1512454811573,
             "changeTime": 1512454811573,
-            "contentHash": "b07203be5b54f0b386be1f56467864b68e67c390",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "b07203be5b54f0b386be1f56467864b68e67c390"
         }
     ],
     [
         "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 17142,
             "modifiedTime": 1512454811604,
             "changeTime": 1512454811604,
-            "contentHash": "1b19f77b701bcc419030905bb142e2d48c6eab14",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "1b19f77b701bcc419030905bb142e2d48c6eab14"
         }
     ],
     [
         "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 4797,
             "modifiedTime": 1512454811641,
             "changeTime": 1512454811641,
-            "contentHash": "8cf9ff9aa4943adae1d59512fb0d4ca8b2dcfbf9",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "8cf9ff9aa4943adae1d59512fb0d4ca8b2dcfbf9"
         }
     ],
     [
         "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 4461,
             "modifiedTime": 1512454811652,
             "changeTime": 1512454811652,
-            "contentHash": "73ad8397e6863de42f0fd812a59698623ba7af38",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "73ad8397e6863de42f0fd812a59698623ba7af38"
         }
     ],
     [
         "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\tabs",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\tabs",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1512454811536,
             "changeTime": 1512454811536,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
         }
     ],
     [
         "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\profiles",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\profiles",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1512454811652,
             "changeTime": 1512454811652,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\aura\\AccountList",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\aura\\AccountList",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1512455927507,
-            "changeTime": 1512455973288,
-            "contentHash": "9b10fc950c90c6623061197f88c0db00961e1f2f"
-        }
-    ],
-    [
-        "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\aura\\AccountListItem",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\aura\\AccountListItem",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1512455761149,
-            "changeTime": 1512455781913,
-            "contentHash": "9fe0106ed0f04a02776eb4dbdb9bb1ee85be87b7"
-        }
-    ],
-    [
-        "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 341,
-            "modifiedTime": 1512455983580,
-            "changeTime": 1512455983580,
-            "contentHash": "54fba69395bda7b5f07d7683a0e698a0749fecfb"
-        }
-    ],
-    [
-        "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 243,
-            "modifiedTime": 1512455927502,
-            "changeTime": 1512455927502,
-            "contentHash": "cad3497d631bfaa3cddbbd338fcfc07592c1b726"
-        }
-    ],
-    [
-        "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 117,
-            "modifiedTime": 1512456132212,
-            "changeTime": 1512456132212,
-            "contentHash": "85dde2885dc3136657a01a064788e1599d165ce5"
-        }
-    ],
-    [
-        "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 255,
-            "modifiedTime": 1512456034133,
-            "changeTime": 1512456034133,
-            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef"
-        }
-    ],
-    [
-        "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1512455927505,
-            "changeTime": 1512455927505,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1512455927507,
-            "changeTime": 1512455927507,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
-        }
-    ],
-    [
-        "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 120,
-            "modifiedTime": 1512455786105,
-            "changeTime": 1512455786105,
-            "contentHash": "474f6d902cf12af89851140c645345a9f8da10a8"
-        }
-    ],
-    [
-        "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 247,
-            "modifiedTime": 1512455761144,
-            "changeTime": 1512455761144,
-            "contentHash": "dc9e3ef3297121e477d211d184a4c93536e11d71"
-        }
-    ],
-    [
-        "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 182,
-            "modifiedTime": 1512455809503,
-            "changeTime": 1512455809503,
-            "contentHash": "ad72ce8d2318d219b26ab341f0c85ca87d3a8a3a"
-        }
-    ],
-    [
-        "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 65,
-            "modifiedTime": 1512455761146,
-            "changeTime": 1512455761146,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
-        }
-    ],
-    [
-        "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1512455761147,
-            "changeTime": 1512455761147,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\527167\\my_proj1\\sfdx-dreamhouse\\Geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1512455761149,
-            "changeTime": 1512455761149,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
